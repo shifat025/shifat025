@@ -1,90 +1,26 @@
 <h1 align="center">Hi 👋, I'm Md Mim Shifat</h1>
-<h3 align="center">Passionate Full-Stack Developer | Python & Django Expert</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
-<p align="center">
-  <a href="https://github.com/shifat025">
-    <img src="https://github-profile-trophy.vercel.app/?username=shifat025&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
+- 👨‍💻 All of my projects are available at [https://shifat-portfolio-pi.vercel.app/](https://shifat-portfolio-pi.vercel.app/)
 
-### 🚀 About Me
-- 🔹 Full-Stack Developer with expertise in **Python, Django REST Framework (DRF), React.js, and PostgreSQL**
-- 🔹 Skilled in building **secure, scalable, and efficient** web applications
-- 🔹 Strong problem-solving skills with experience in **competitive programming**
-- 🔹 Passionate about **learning new technologies** and contributing to open-source projects
-- 🔹 📫 Reach me at: **mdshifat.official.05@gmail.com**
-- 🔹 🌐 **Portfolio:** [shifat-portfolio-pi.vercel.app](https://shifat-portfolio-pi.vercel.app/)
-- 🔹 📄 **My Resume:** [View Here](https://drive.google.com/drive/folders/1k-mFlmnBex_27tycISUuJ7_kkqJHABRK)
+- 📫 How to reach me **mdshifat.official.05@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1k-mFlmnBex_27tycISUuJ7_kkqJHABRK](https://drive.google.com/drive/folders/1k-mFlmnBex_27tycISUuJ7_kkqJHABRK)
 
-### 🛠 Tech Stack & Tools
-
-#### **💻 Programming Languages:**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **🌐 Web Development:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **📂 Databases & Cloud:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### **🛠 Tools & Others:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-#### 📝 **Quiz Application** [Live](https://quiz-application-one-tau.vercel.app/) | [Frontend](https://github.com/shifat025/Quiz_Application) | [Backend](https://github.com/shifat025/Quiz_Application_Backend)
-A quiz app where admins create quizzes, and users take them, view scores, and check rankings.
-- 🔹 **Tech Stack:** Django REST Framework (DRF), React.js, Tailwind CSS, SQLite
-- 🔹 **Features:** JWT authentication, admin panel, real-time ranking system
-
-#### 💰 **SellStream (Point of Sale System)** [Live](https://sell-stream.netlify.app/) | [Frontend](https://github.com/135meherab/SellStream-front-end) | [Backend](https://github.com/135meherab/SellStream)
-A POS system for grocery stores, electronics shops, and pharmacies to manage products and employees.
-- 🔹 **Tech Stack:** Django REST Framework, React, Redux, PostgreSQL
-- 🔹 **Features:** Role-based access, inventory management, real-time data updates
-
-#### 🐾 **Pet Adoption BD** [Live](https://pet-adoption-bd.onrender.com/) | [GitHub](https://github.com/shifat025/Pet_Adoption_Bd)
-A full-stack pet adoption platform where users can adopt or list pets.
-- 🔹 **Tech Stack:** Django (MVT), Bootstrap, SQLite
-- 🔹 **Features:** User authentication, PayPal payment integration, adoption history tracking
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shifat025&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat025&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat025&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shifat025&theme=dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### 🤝 Connect with Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mimshifat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/md-mim-shifat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.leetcode.com/shifat58201"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://twitter.com/mimshifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mimshifat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-mim-shifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mim-shifat" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shifat011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shifat011" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@shifat58201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shifat58201" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shifat56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shifat56" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shifat58201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shifat58201" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-🔥 *Always learning and building something new!* 🚀
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifat025&show_icons=true&locale=en&layout=compact" alt="shifat025" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifat025&" alt="shifat025" /></p>
+
