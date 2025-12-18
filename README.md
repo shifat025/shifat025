@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mim Shifat</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://mimshifat.com/)
+- 👨‍💻 All of my projects are available at https://mimshifat.com/
 
 - 📫 How to reach me **mdshifat.official.05@gmail.com**
 
